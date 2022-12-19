@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+This course is from [Scrimba](https://scrimba.com/playlist/pKNqYAZ).
+
+Made by
+
+### `Bob Ziroll`(https://github.com/bobziroll)
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
